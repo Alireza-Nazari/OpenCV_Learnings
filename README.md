@@ -4,9 +4,6 @@
 
 <img width="1284" height="276" alt="alireza" src="https://github.com/user-attachments/assets/e024fd79-6d4f-4f8b-a136-c0a924bcb7c3" />
 
-Absolutely! Here's a **fun, engaging, and extended version of the OpenCV explanation** — now full of **emojis** to make it visually exciting and easier to digest. Great for blogs, presentations, or beginner-friendly educational content.
-
----
 
 # 🌟 OpenCV: A Complete Guide to the Open Source Computer Vision Powerhouse 🚀👁️‍🗨️
 
