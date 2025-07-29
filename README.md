@@ -120,5 +120,4 @@ Whether you’re a student 🌱, developer 👨‍💻, or entrepreneur 🚀, le
 
 ✨ Want to bring vision to your apps, products, or research? OpenCV is your best friend. 🫱👁️🫲
 
-Let me know if you want this in **PDF**, **presentation slides**, or **translated** into another language!
 
